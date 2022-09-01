@@ -8,8 +8,8 @@
 
 ## Links
 
- - Solution URL: [Repository Project]()
- - Live Site URL: [Live Result]()
+ - Solution URL: [Repository Project](https://github.com/Samuel-Amaro/will-it-miss)
+ - Live Site URL: [Live Result](https://resilient-llama-856546.netlify.app/)
 
 ### Built with
 
